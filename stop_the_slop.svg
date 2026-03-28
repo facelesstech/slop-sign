@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="stop_the_slop.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.51936728"
+     inkscape:cx="397.59917"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1536"
+     inkscape:window-height="792"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2"
+       d="m 109.45774,120.9197 10.84577,10.84577 v 15.33828 l -10.84577,10.84576 H 94.119528 l -10.84579,-10.84576 v -15.33828 l 10.84579,-10.84577 z"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.158594"
+       inkscape:export-filename="stop_the_slop.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.92971px;font-family:Transport;-inkscape-font-specification:'Transport, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:0"
+       x="101.70924"
+       y="136.9344"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.92971px;font-family:Transport;-inkscape-font-specification:'Transport, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0"
+         x="101.70924"
+         y="136.9344">STOP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.92971px;font-family:Transport;-inkscape-font-specification:'Transport, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:0"
+       x="101.70924"
+       y="149.53154"
+       id="text2-9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.92971px;font-family:Transport;-inkscape-font-specification:'Transport, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0"
+         x="101.70924"
+         y="149.53154"
+         id="tspan3">SLOP</tspan></text>
+    <g
+       id="g2"
+       transform="matrix(0.44955789,0,0,0.44955789,47.390288,111.06838)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Transport;-inkscape-font-specification:'Transport, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0;stroke-linejoin:bevel;stroke-miterlimit:0"
+         x="121.20561"
+         y="66.481133"
+         id="text2-2"><tspan
+           sodipodi:role="line"
+           id="tspan2-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Transport;-inkscape-font-specification:'Transport, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0"
+           x="121.20561"
+           y="66.481133">THE</tspan></text>
+    </g>
+    <path
+       id="path3"
+       d="m 94.132218,119.45176 h 15.435152 c 0.39538,0 0.73556,0.14178 1.01373,0.42265 l 10.77678,10.87352 c 0.27516,0.2777 0.41362,0.61392 0.41362,1.00486 v 15.36026 c 0,0.39286 -0.14004,0.73099 -0.41774,1.00891 l -10.86845,10.877 c -0.27801,0.27819 -0.61645,0.41844 -1.00961,0.41844 l -15.343482,5e-5 c -0.39258,0 -0.73043,-0.13977 -1.00831,-0.41715 L 82.22479,148.12223 c -0.278506,-0.27801 -0.419037,-0.61671 -0.419037,-1.01029 v -15.35471 c 0,-0.39347 0.140531,-0.73223 0.419037,-1.01024 l 10.899118,-10.87813 c 0.27788,-0.27738 0.61573,-0.4171 1.00831,-0.4171 z"
+       style="fill:none;stroke:#ed268f;stroke-width:0.0342563;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
